@@ -258,7 +258,7 @@ public class DbConnection {
     public static void closeConnection () throws SQLException {
 
         connect.close();
-        System.out.println("Connectedion closed");
+        System.out.println("Connection closed");
     }
 
     public static double round(double value, int places) {

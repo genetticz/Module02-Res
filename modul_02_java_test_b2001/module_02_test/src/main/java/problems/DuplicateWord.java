@@ -43,13 +43,4 @@ public class DuplicateWord {
         return mapped;
     }
 
-    /*public boolean doesItExist(String word){
-
-        boolean checkComplete = false;
-
-        for(int i =0; i < storage.size(); i++) {
-            if
-        }
-    }*/
-
 }
